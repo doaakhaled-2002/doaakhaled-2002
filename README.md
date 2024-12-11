@@ -6,6 +6,6 @@
   
   <img src="https://github.com/doaakhaled-2002/logo/blob/main/images.jfif" align="right" width="25%"/>
 
-I'm a student who is adore learning. Some technologies I enjoy working with include Flutter and Firebase.
+I graduated from Faculty of Computers and Artificial Intelligence, who is adore learning. Some technologies I enjoy working with include Python, MySql, Tableau, Power BI and Excel.
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Data Analysis**
